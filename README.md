@@ -32,7 +32,7 @@ To access and interact with the HR Analytics Dashboard, follow these steps:
 
 ### Dashboard Preview
 
-Dashboard Preview (IMage)
+![Dashboard Preview](images/hr_shot.png)
 
 Explore the live dashboard on the PowerBI Service to experience the interactive features and visualize the HR analytics.
 
